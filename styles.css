@@ -8,3 +8,21 @@
     font-size: 20px;
     color:dimgray;
 }
+.robot {
+    float:left;
+}
+.porshe {
+    float:right;
+}
+.dinosaur {
+    float:left;
+}
+.Diamond_Molecule_structure {
+    float:right;
+}
+.ironman {
+    float:left;
+}
+.shark {
+    flaot:right;
+}
